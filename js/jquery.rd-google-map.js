@@ -17,8 +17,8 @@
             mapClass: 'map_model',
             locationsClass: 'map_locations',
             marker: {
-                basic: 'images/gmap_marker.png',
-                active: 'images/gmap_marker_active.png'
+                basic: 'https://1.bp.blogspot.com/--HSug8yIMlM/W4CABXvNCOI/AAAAAAAAAPY/pdwwZA3KDAgTf-lyLf4-xBahpD0XFoUBwCPcBGAYYCw/s1600/gmap_marker.png',
+                active: 'https://3.bp.blogspot.com/-T1jZ3pa_-uc/W4CAB1x2CnI/AAAAAAAAAPg/sZU89RWnnUICliSaWoMIkPwIEGP6c3g3gCPcBGAYYCw/s1600/gmap_marker_active.png'
             },
             styles: []
         },
