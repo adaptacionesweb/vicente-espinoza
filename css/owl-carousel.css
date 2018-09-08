@@ -50,6 +50,7 @@
   -webkit-tap-highlight-color: transparent;
   position: relative;
   z-index: 1;
+    background: whitesmoke;
 }
 
 .owl-carousel .owl-stage {
@@ -248,7 +249,7 @@
   transition: 0.3s all ease;
 }
 .owl-dots .owl-dot:hover, .owl-dots .owl-dot.active {
-  background: #6bc7ed;
+  background: #f6701d;
 }
 .owl-dots .owl-dot + .owl-dot {
   margin-left: 9px;
